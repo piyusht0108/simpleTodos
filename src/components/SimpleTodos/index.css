@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 800px;
+}
+
+.page-heading {
+  color: #ff8542;
+}
+
+.list-container {
+  list-style-type: none;
+  padding: 10px;
+  width: 600px;
+}
